@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947934222662",
+    "project_id": "gmvstriqui",
+    "storage_bucket": "gmvstriqui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947934222662:android:96fb5aca3ed20675a96d47",
+        "android_client_info": {
+          "package_name": "co.edu.unal.onlinetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947934222662-s4c4ia887685pfi1ku942lcejm05rmq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unal.onlinetictactoe",
+            "certificate_hash": "b046a1dc9e3fe935c2468c2c031be4cf79a64c3c"
+          }
+        },
+        {
+          "client_id": "947934222662-0impo3j995u0j2vbes35d1qo1oiuv9jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iuBPwbL2hNGrKiW3wH5fhYrZYi1Szqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947934222662-0impo3j995u0j2vbes35d1qo1oiuv9jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
